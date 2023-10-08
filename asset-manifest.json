@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Expense-tracker/static/css/main.e525ac8a.css",
+    "main.js": "/Expense-tracker/static/js/main.22ba1088.js",
+    "static/js/787.606f0ee5.chunk.js": "/Expense-tracker/static/js/787.606f0ee5.chunk.js",
+    "static/media/added.png": "/Expense-tracker/static/media/added.7d3c45d484a506b99b86.png",
+    "static/media/empty.png": "/Expense-tracker/static/media/empty.9514b744620bcbf4e8cf.png",
+    "static/media/coins.png": "/Expense-tracker/static/media/coins.2ccb1ac31990693a29fe.png",
+    "static/media/graduation-cap.png": "/Expense-tracker/static/media/graduation-cap.d031c24558f9074049ca.png",
+    "static/media/hamburger-soda.png": "/Expense-tracker/static/media/hamburger-soda.b821fda4ae2f884de8c1.png",
+    "index.html": "/Expense-tracker/index.html",
+    "main.e525ac8a.css.map": "/Expense-tracker/static/css/main.e525ac8a.css.map",
+    "main.22ba1088.js.map": "/Expense-tracker/static/js/main.22ba1088.js.map",
+    "787.606f0ee5.chunk.js.map": "/Expense-tracker/static/js/787.606f0ee5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e525ac8a.css",
+    "static/js/main.22ba1088.js"
+  ]
+}
